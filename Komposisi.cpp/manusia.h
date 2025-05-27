@@ -3,7 +3,7 @@
 
 #include <iostream>
 #include <string>
-#include "jantung.h"  // Diperlukan untuk menggunakan kelas jantung
+#include "jantung.h"  
 using namespace std;
 
 class manusia {
